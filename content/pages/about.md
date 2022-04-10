@@ -9,13 +9,12 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+> Me llamo Amanda Balderas
+> Soy de la CDMX
+> Tengo 19 (casi 20) años
+> Estudio ingeniería en computación en la Facultad de Ingeniería de la UNAM
+> Estoy en 4to semestre
+> Me encanta bailar, jugar basquet, fut y la natación
+> Me encanta leer, programar, diseñar y dibujar 
+> Me gusta mucho aprender cosas nuevas siempre y conocer personas nuevas 
+> Tengo una perrita, se llama Emma. Es muy traviesa, juguetona y cariñosa. Y la quiero muchísimo
