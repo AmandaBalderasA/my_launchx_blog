@@ -9,7 +9,7 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Me llamo Amanda Balderas
+> Me llamo Amanda Balderas<br>
 > Soy de la CDMX
 > Tengo 19 (casi 20) años
 > Estudio ingeniería en computación en la Facultad de Ingeniería de la UNAM
